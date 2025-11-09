@@ -1,0 +1,10 @@
+flask
+twilio
+requests
+beautifulsoup4
+lxml
+readability-lxml
+python-dotenv
+tldextract
+waitress
+gunicorn
